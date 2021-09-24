@@ -1,8 +1,8 @@
 # uiux
 
-
+## *Ths is a UI/UX design project*
 
 # Author
-- Victor 
+- _Victor_
 - Chemberlyn,
 - Tife
